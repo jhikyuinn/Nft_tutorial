@@ -1,0 +1,27 @@
+{
+  "name": "nft_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhikyuinn/Nft_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhikyuinn/Nft_tutorial/issues"
+  },
+  "homepage": "https://github.com/jhikyuinn/Nft_tutorial#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "nft.storage": "^6.3.0"
+  }
+}
